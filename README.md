@@ -1,6 +1,6 @@
-# Cloudflare Worker - Hello World
+# OrdaceLore Website
 
-A simple Cloudflare Worker application that returns a response with time information.
+A Cloudflare Worker application for the OrdaceLore website.
 
 ## 🚀 Getting Started
 
